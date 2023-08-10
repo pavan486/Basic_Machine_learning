@@ -1,1 +1,1 @@
-# Kaggle Competetion
+# Kaggle projects
